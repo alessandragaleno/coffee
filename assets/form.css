@@ -1,0 +1,61 @@
+    @import url('https://fonts.googleapis.com/css2?family=Agdasima&family=Borel&family=DM+Serif+Display:ital@1&family=Dancing+Script:wght@400;500;700&family=Fasthand&family=Freehand&family=Montserrat:ital,wght@1,600&family=Oswald:wght@400;500&family=Playfair+Display:ital@0;1&family=Poppins:ital,wght@0,500;0,700;1,100&family=Raleway:ital,wght@0,100;1,100&family=Roboto+Slab:wght@500;600&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    width: 43%;
+    height: 278px;
+    max-width: fit-content;
+    margin-right: 123px;
+    margin-left: 534px;
+    margin-top: 212px;
+    background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p1/16655112-fundo-gradiente-roxo-rosa-e-lilas-abstrato-fucsia-suave-gradiente-desfocado-magenta-papel-de-parede-de-malha-colorida-suave-projeto-de-ilustracaoial-eps-10-vetor.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+    width: 100%;
+    background-color:#4623a6;
+    padding-bottom: 5px;
+}
+main{
+    display: inline-flex;
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(250, 187, 166);
+}
+body > #pagina{
+    margin-top: 50px;
+}
+.dados{
+   margin-top: 43px;
+}
+header > h1{
+    text-align: center;
+    font-size: 45px;
+}
+.fa-bars{
+    font-size: 25px;
+    margin: 12px;
+    color: rgb(39, 39, 95);
+}
+.fa-mug-hot{
+    color:rgb(56, 14, 14);
+}
+#enviar{
+    background-color: rgb(84, 84, 190);
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    width: 23%;
+}
+.bnt{
+    text-align: center;
+    padding: 15px;
+}
+::placeholder{
+    text-align: center;
+}
