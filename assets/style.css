@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+body{
+    background: url(/img/pexels-michael-burrows-7125705.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 242px;
+    box-shadow: 5px 5px 5px 5px black;
+    margin-top: 194px;
+    margin-left: 550px;
+    margin-right: 530px;
+
+}
+.login{
+    text-align: center;
+    margin-top: -160px;
+    margin-bottom: 12px;
+}
+button{
+    background-color: black;
+    padding: 6px  17px 6px 17px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+    border-radius: 7px;
+}
+
+
